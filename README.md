@@ -1,3 +1,9 @@
+---
+noteId: "76a7ff106e1311efb797579543ee5737"
+tags: []
+
+---
+
 # Solving an SDG Problem with Data (Choose Your SDG)
 
 ## Overview
